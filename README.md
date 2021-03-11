@@ -10,5 +10,7 @@ Brief Description:
 
 Reference:
 W. Stallings. Computer Organization and Architecture, 10th Ed.
+
 Operating System - Memory Management (https://www.tutorialspoint.com/operating_system/os_memory_management.htm)
+
 Memory Management in OS: Contiguous, Swapping, Fragmentation (https://www.guru99.com/os-memory-management.html)
