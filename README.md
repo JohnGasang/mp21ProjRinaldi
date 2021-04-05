@@ -30,5 +30,5 @@ Introduction
 5. Segmentation
 
 **Work Assignments:**
-* John Mark A. Gomez - 
-* John Patrick Marnel Gasang -
+* John Mark A. Gomez - no. (1), (2) & (4)
+* John Patrick Marnel Gasang - no. (3) & (5)
