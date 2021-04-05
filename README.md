@@ -22,9 +22,13 @@ Introduction
   1. Operating System
   2. Memory in Operating System
   3. Memory Management
+ 
     3.1. Swapping
+    
     3.2. Partioning 
+    
     3.3. Paging
+   
   4. Virtual Memory
   5. Segmentation
 
