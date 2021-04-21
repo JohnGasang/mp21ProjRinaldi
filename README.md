@@ -19,7 +19,7 @@ Memory Management in OS: Contiguous, Swapping, Fragmentation (https://www.guru99
 
 **Table of Contents:** 
 
-Introduction
+* Abstract
 * Operating System
 * Memory in Operating System
 * Memory Management
