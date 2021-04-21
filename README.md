@@ -11,11 +11,11 @@ In an Operating System (OS), Memory management has a task that handles the multi
 
 **References:**
 
-W. Stallings. Computer Organization and Architecture, 10th Ed.
+[1] W. Stallings. (2016). Computer Organization and Architecture, 10th Ed. Hoboken, NJ: Pearson Education, pp. 276-304.  
 
-Operating System - Memory Management (https://www.tutorialspoint.com/operating_system/os_memory_management.htm)
+[2] Tutorials Point. (2016). Memory Management. Retrieved from https://www.tutorialspoint.com/operating_system/os_memory_management.htm
 
-Memory Management in OS: Contiguous, Swapping, Fragmentation (https://www.guru99.com/os-memory-management.html)
+[3] Guru99. Memory Management in OS: Contiguous, Swapping, Fragmentation. Retrieved from https://www.guru99.com/os-memory-management.html
 
 **Table of Contents:** 
 
@@ -23,12 +23,13 @@ Memory Management in OS: Contiguous, Swapping, Fragmentation (https://www.guru99
 * Operating System
 * Memory in Operating System
 * Memory Management
-    * Swapping
-    * Partioning
-    * Paging
+* Swapping
+* Partitioning
+* Paging
 * Virtual Memory
 * Segmentation
 
+
 **Work Assignments:**
-* John Mark A. Gomez - #[1],[2]&[4]
-* John Patrick Marnel Gasang - #[3]&[5]
+* John Mark A. Gomez - [Operating System],[Memory in Operating System],[Memory Management]&[Virtual Memory]
+* John Patrick Marnel Gasang - [Swapping],[Partitioning],[Paging],&[Segmentation]
