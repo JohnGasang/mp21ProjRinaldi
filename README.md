@@ -1,4 +1,4 @@
-# Project Title: Memory in Operating System
+# Memory in Operating System
 
 
 **Members:**
@@ -7,7 +7,7 @@
 
 **Description of the Project:**
 
-  In an Operating System (OS), Memory management has a task that handles the multiple processes back and forth between main memory and disk during execution. The memory needs to be allocated efficiently to pack as many processes into memory as possible. By assigning portions in memory known as blocks to various running programs to enhance the overall performance of the system.
+In an Operating System (OS), Memory management has a task that handles the multiple processes back and forth between main memory and disk during execution. The memory needs to be allocated efficiently to pack as many processes into memory as possible. By assigning portions in memory known as blocks to various running programs to enhance the overall performance of the system.
 
 **References:**
 
@@ -20,15 +20,15 @@ Memory Management in OS: Contiguous, Swapping, Fragmentation (https://www.guru99
 **Table of Contents:** 
 
 Introduction
-1. Operating System
-2. Memory in Operating System
-3. Memory Management
+* Operating System
+* Memory in Operating System
+* Memory Management
     * Swapping
     * Partioning
     * Paging
-4. Virtual Memory
-5. Segmentation
+* Virtual Memory
+* Segmentation
 
 **Work Assignments:**
-* John Mark A. Gomez - no. (1), (2) & (4)
-* John Patrick Marnel Gasang - no. (3) & (5)
+* John Mark A. Gomez - #[1],[2]&[4]
+* John Patrick Marnel Gasang - #[3]&[5]
