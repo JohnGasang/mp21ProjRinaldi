@@ -28,7 +28,7 @@ In an Operating System (OS), Memory management has a task that handles the multi
 * Paging
 * Virtual Memory
 * Segmentation
-* Referrence
+* Reference
 
 
 **Work Assignments:**
