@@ -13,9 +13,21 @@ In an Operating System (OS), Memory management has a task that handles the multi
 
 [1] W. Stallings. (2016). Computer Organization and Architecture, 10th Ed. Hoboken, NJ: Pearson Education, pp. 276-304.  
 
-[2] Tutorials Point. (2016). Memory Management. Retrieved from https://www.tutorialspoint.com/operating_system/os_memory_management.htm
+[2] Tutorials Point. Memory Management. Retrieved from https://www.tutorialspoint.com/operating_system/os_memory_management.htm
 
 [3] Guru99. Memory Management in OS: Contiguous, Swapping, Fragmentation. Retrieved from https://www.guru99.com/os-memory-management.html
+
+[4] Tutorials Point. Operating System - Overview. https://www.tutorialspoint.com/operating_system/os_overview.htm
+
+[5] Techterms. Operating System. https://techterms.com/definition/operating_system
+
+[6] The University of Rhode Island. Operating System. https://homepage.cs.uri.edu/faculty/wolfe/book/Readings/Reading07.htm
+
+[7] Include Help. Memory management in Operating System. https://www.includehelp.com/operating-systems/memory-management-in-operating-system.aspx
+
+[8] Java T Point. Swapping in Operating System. https://www.javatpoint.com/swapping-in-operating-system
+
+[9] Include Help. Memory Management Techniques in Operating System https://www.includehelp.com/operating-systems/memory-management-techniques-in-operating-system.aspx
 
 **Table of Contents:** 
 
