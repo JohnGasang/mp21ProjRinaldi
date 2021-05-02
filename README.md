@@ -29,6 +29,7 @@ In an Operating System (OS), Memory management has a task that handles the multi
 
 [9] Include Help. Memory Management Techniques in Operating System https://www.includehelp.com/operating-systems/memory-management-techniques-in-operating-system.aspx
 
+[10] Lehigh University. RAM vs Hard Drive. https://www.lehigh.edu/~inimr/computer-basics-tutorial/ramvsdiskspacehtm.htm
 **Table of Contents:** 
 
 * Abstract
