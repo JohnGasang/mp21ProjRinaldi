@@ -35,6 +35,12 @@ In an Operating System (OS), Memory management has a task that handles the multi
 
 [12] Study Tonight. Introduction to Memory Management. https://www.studytonight.com/operating-system/memory-management
 
+[13] Java T Point. OS Segmentation. https://www.javatpoint.com/os-segmentation
+
+[14] Java T Point. OS Fixed Partitioning. https://www.javatpoint.com/os-fixed-partitioning
+
+[15] Java T Point. OS Dynamic Partitioning. https://www.javatpoint.com/os-dynamic-partitioning
+
 
 **Table of Contents:** 
 
