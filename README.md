@@ -58,3 +58,7 @@ In an Operating System (OS), Memory management has a task that handles the multi
 **Work Assignments:**
 * John Mark A. Gomez - [Operating System],[Memory in Operating System],[Memory Management]&[Virtual Memory]
 * John Patrick Marnel Gasang - [Swapping],[Partitioning],[Paging],&[Segmentation]
+
+**Youtube Presentation**
+
+https://www.youtube.com/watch?v=3Cx080CF3b0
