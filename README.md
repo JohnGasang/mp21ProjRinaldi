@@ -11,36 +11,35 @@ In an Operating System (OS), Memory management has a task that handles the multi
 
 **References:**
 
-[1] W. Stallings. (2016). Computer Organization and Architecture, 10th Ed. Hoboken, NJ: Pearson Education, pp. 276-304.  
+[1] W. Stallings. Computer Organization and Architecture, 10th Ed. Hoboken, NJ: Pearson Education, pp. 276-304, (2016). 
 
-[2] Tutorials Point. Memory Management. Retrieved from https://www.tutorialspoint.com/operating_system/os_memory_management.htm
+[2] “Memory Management”. Tutorials Point. https://www.tutorialspoint.com/operating_system/os_memory_management.htm
 
-[3] Guru99. Memory Management in OS: Contiguous, Swapping, Fragmentation. Retrieved from https://www.guru99.com/os-memory-management.html
+[3] “Memory Management in OS: Contiguous, Swapping, Fragmentation”. Guru99. https://www.guru99.com/os-memory-management.html
 
-[4] Tutorials Point. Operating System - Overview. https://www.tutorialspoint.com/operating_system/os_overview.htm
+[4] “Operating System - Overview”. Tutorials Point. https://www.tutorialspoint.com/operating_system/os_overview.htm
 
-[5] Techterms. Operating System. https://techterms.com/definition/operating_system
+[5] “Operating System”. Techterms. https://techterms.com/definition/operating_system
 
-[6] The University of Rhode Island. Operating System. https://homepage.cs.uri.edu/faculty/wolfe/book/Readings/Reading07.htm
+[6] “Operating System”. The University of Rhode Island. https://homepage.cs.uri.edu/faculty/wolfe/book/Readings/Reading07.htm
 
-[7] Include Help. Memory management in Operating System. https://www.includehelp.com/operating-systems/memory-management-in-operating-system.aspx
+[7] “Memory management in Operating System”. Include Help. https://www.includehelp.com/operating-systems/memory-management-in-operating-system.aspx
 
-[8] Java T Point. Swapping in Operating System. https://www.javatpoint.com/swapping-in-operating-system
+[8] “Swapping in Operating System”. Java T Point. https://www.javatpoint.com/swapping-in-operating-system
 
-[9] Include Help. Memory Management Techniques in Operating System https://www.includehelp.com/operating-systems/memory-management-techniques-in-operating-system.aspx
+[9] “Memory Management Techniques in Operating System”. Include Help. https://www.includehelp.com/operating-systems/memory-management-techniques-in-operating-system.aspx
 
-[10] Lehigh University. RAM vs Hard Drive. https://www.lehigh.edu/~inimr/computer-basics-tutorial/ramvsdiskspacehtm.htm
+[10] “RAM vs Hard Drive”. Lehigh University. https://www.lehigh.edu/~inimr/computer-basics-tutorial/ramvsdiskspacehtm.htm
 
-[11] Wikipedia. Memory Management (Operating System). https://en.wikipedia.org/wiki/Memory_management_(operating_systems)
+[11] “Memory Management (Operating System)”. Wikipedia. https://en.wikipedia.org/wiki/Memory_management_(operating_systems)
 
-[12] Study Tonight. Introduction to Memory Management. https://www.studytonight.com/operating-system/memory-management
+[12] “Introduction to Memory Management”. Study Tonight. https://www.studytonight.com/operating-system/memory-management
 
-[13] Java T Point. OS Segmentation. https://www.javatpoint.com/os-segmentation
+[13] “OS Segmentation”. Java T Point. https://www.javatpoint.com/os-segmentation
 
-[14] Java T Point. OS Fixed Partitioning. https://www.javatpoint.com/os-fixed-partitioning
+[14] “OS Fixed Partitioning”. Java T Point. https://www.javatpoint.com/os-fixed-partitioning
 
-[15] Java T Point. OS Dynamic Partitioning. https://www.javatpoint.com/os-dynamic-partitioning
-
+[15] “OS Dynamic Partitioning”. Java T Point. https://www.javatpoint.com/os-dynamic-partitioning
 
 **Table of Contents:** 
 
